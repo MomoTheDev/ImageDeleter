@@ -3,8 +3,8 @@ An automated script to delete images with invalid resolutions
 
 # Installation
 1. Open the project in your favorite Java IDE
-2. Add all the directories you want to scan, to the `initializeDirectories()` method
-3. Add all the valid resolutions, to the `initializeResolutions()` method
+2. Add all the directories you want to scan, in the `initializeDirectories()` method
+3. Add all the valid resolutions, in the `initializeResolutions()` method
 4. Compile and the script
 
 # Construction:
