@@ -38,6 +38,7 @@ public class ImageDeleter {
 			if (!(resolutions.contains(resolution))) {
 				System.out.println("Deleting File with invalid resolution: " + file.getPath());
 				file.delete();
+				continue;
 			}
 			System.out.println("File accepted: " + file.getPath());
 		}
