@@ -7,5 +7,5 @@ An automated script to delete images with invalid resolutions
 3. Add all the valid resolutions in the `initializeResolutions()` method
 4. Compile and run the script
 
-# Construction:
+# Construction
 The `Resolution` Constructor is `new Resolution(width, height)`
